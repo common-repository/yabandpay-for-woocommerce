@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "ff18db37f0708a024be2a8c8c475b5bb",
+    "packages": [
+        {
+            "name": "persi/yabandpay",
+            "version": "v3.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/PersiLiao/yabandpay.git",
+                "reference": "12711993bc3a1f282864b1053f90c67af697f27e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/PersiLiao/yabandpay/zipball/12711993bc3a1f282864b1053f90c67af697f27e",
+                "reference": "12711993bc3a1f282864b1053f90c67af697f27e",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://dl.laravel-china.org/%package%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "require": {
+                "ext-json": "*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "YaBandPay\\PersiLiao\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "PersiLiao",
+                    "email": "xiangchu.liao@gmail.com"
+                }
+            ],
+            "time": "2019-05-20T17:42:47+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

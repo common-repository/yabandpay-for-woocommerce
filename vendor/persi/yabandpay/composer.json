@@ -1,0 +1,17 @@
+{
+    "name": "persi/yabandpay",
+    "authors": [
+        {
+            "name": "PersiLiao",
+            "email": "xiangchu.liao@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-json":"*"
+    },
+    "autoload": {
+        "psr-4": {
+            "YaBandPay\\PersiLiao\\": "src/"
+        }
+    }
+}

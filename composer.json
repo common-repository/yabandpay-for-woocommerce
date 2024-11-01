@@ -1,0 +1,5 @@
+{
+    "require": {
+        "persi/yabandpay": "^3.0"
+    }
+}
